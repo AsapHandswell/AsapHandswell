@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Lab 1: S3 Static Website via AWS
 - Hosted a website...
-- 
   
 ![Screenshot 2025-02-21 at 9 19 56 PM](https://github.com/user-attachments/assets/fbe78b5a-5af7-4011-aa02-cef7f913a4db)
 ![Screenshot 2025-02-21 at 9 20 09 PM](https://github.com/user-attachments/assets/e3f2b96b-201d-4e91-9562-a514500b5780)
