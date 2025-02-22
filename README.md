@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Lab 4: RDS Database
 - Deployed a MySQL database...
-- [Screenshot](RDS_Lab4.png)
+- ![Screenshot 2025-02-21 at 8 58 59 PM](https://github.com/user-attachments/assets/6519eeb0-9a37-43e4-a75a-e7625db42dda)
 ## Lab 5: CloudWatch Alarm
 - Configured a CPU alarm...
 - [Screenshot](CloudWatch_Lab5.png)
