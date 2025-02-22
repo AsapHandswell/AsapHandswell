@@ -8,7 +8,7 @@
 AsapHandswell/AsapHandswell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Lab 1: S3 Static Website
+## Lab 1: S3 Static Website via AWS
 - Hosted a website...
 - 
   
