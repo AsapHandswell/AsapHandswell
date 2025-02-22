@@ -17,5 +17,7 @@ You can click the Preview link to take a look at your changes.
 - [Screenshot](CloudWatch_Lab5.png)
 ## Lab 6: S3 Static Website
 - Hosted a website...
-- [Screenshot](S3Web_Lab6.png)
+- 
   
+![Screenshot 2025-02-21 at 9 19 56 PM](https://github.com/user-attachments/assets/fbe78b5a-5af7-4011-aa02-cef7f913a4db)
+![Screenshot 2025-02-21 at 9 20 09 PM](https://github.com/user-attachments/assets/e3f2b96b-201d-4e91-9562-a514500b5780)
