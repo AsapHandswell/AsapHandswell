@@ -29,8 +29,9 @@ Set up a CloudWatch alarm to monitor EC2 CPU usage and troubleshoot notification
 5. Restarted instance and verified alarm updated correctly.
 
 ## Screenshots
-- [EC2 Instance Running](![image](https://github.com/user-attachments/assets/8bf25928-7a84-4138-99b0-28a883a1b2eb)
-)
+- [EC2 Instance Running]![image](https://github.com/user-attachments/assets/878c5eb2-94da-4edc-af4b-249408326b52)
+
+
 - [Alarm Configuration](![image](https://github.com/user-attachments/assets/d8dc3b63-d339-46e3-b99a-c5cf43c39480)
 )
 - [SNS Subscription Confirmation](![image](https://github.com/user-attachments/assets/614213b6-2e30-4063-877c-a3bffe561459)
