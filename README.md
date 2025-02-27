@@ -32,10 +32,10 @@ Set up a CloudWatch alarm to monitor EC2 CPU usage and troubleshoot notification
 - [EC2 Instance Running]![image](https://github.com/user-attachments/assets/878c5eb2-94da-4edc-af4b-249408326b52)
 
 
-- [Alarm Configuration](![image](https://github.com/user-attachments/assets/d8dc3b63-d339-46e3-b99a-c5cf43c39480)
-)
-- [SNS Subscription Confirmation](![image](https://github.com/user-attachments/assets/614213b6-2e30-4063-877c-a3bffe561459)
-)
+- [Alarm Configuration]![image](https://github.com/user-attachments/assets/6c5b5602-4181-45aa-ad74-933047a1eaa2)
+
+- [SNS Subscription Confirmation]![image](https://github.com/user-attachments/assets/668db35d-f361-4a51-a36c-c76aff6ab10b)
+
 
 ## Takeaways
 - Learned to set up monitoring alerts and verify notification delivery.
